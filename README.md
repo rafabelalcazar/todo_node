@@ -17,3 +17,5 @@ Para ver los comandos disponibles y sus argumentos usa
 ```
 node app.js --help
 ```
+
+NOTE: 2h 10min
